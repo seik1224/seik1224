@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seik1224&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seik1224&utm_content=farm" target="_blank">
 <img
   src="https://render.gitanimals.org/farms/seik1224"
   style="width:100%;"
